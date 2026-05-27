@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercync",
+        "uuid": 24404850,
+        "checksum": "z7siq9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
